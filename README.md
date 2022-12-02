@@ -78,8 +78,9 @@ So, He can make data Driven decision. which will help in increse sales.
 
 
 ## Screenshots
+###Key_Insights
+![App Screenshot](https://github.com/yadavruchirmail/PowerBi---X-axis-Computer-Hardware/blob/main/Deshboard_Screenshot/Key_Insights.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Deshboard Features
