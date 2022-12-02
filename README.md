@@ -84,7 +84,7 @@ So, He can make data Driven decision. which will help in increse sales.
 ### Performance Insights
 ![App Screenshot](https://github.com/yadavruchirmail/PowerBi---X-axis-Computer-Hardware/blob/Deshboard-screenshot/Deshboard%20screenshot/Performance%20Insights.png "Performance Insights")
 ### Profit Analysis
-![App Screenshot]https://github.com/yadavruchirmail/PowerBi---X-axis-Computer-Hardware/blob/Deshboard-screenshot/Deshboard%20screenshot/Profit%20Analysis.png
+![App Screenshot](https://github.com/yadavruchirmail/PowerBi---X-axis-Computer-Hardware/blob/Deshboard-screenshot/Deshboard%20screenshot/Profit%20Analysis.png)
 
 
 ## Deshboard Features
